@@ -1,6 +1,6 @@
 # Talko-content
 
-Remote content assets for the [Talk](https://github.com/sashavoloshanov) iOS app (bundle ID `com.svoloshanov.Talk`).
+Remote content assets for the [Talko](https://github.com/sashavoloshanov) iOS app (bundle ID `com.voloshanov.Talk`).
 
 This repository exists so that visual content can be updated and extended without shipping a new app build or growing the app binary. The app downloads files from here on demand and caches them on disk.
 
